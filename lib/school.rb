@@ -26,3 +26,4 @@ class School
         end.to_h
     end
 end
+
